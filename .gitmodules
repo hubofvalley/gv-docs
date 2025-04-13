@@ -1,0 +1,6 @@
+[submodule "testnet-guides"]
+	path = testnet-guides
+	url = https://github.com/hubofvalley/Testnet-Guides
+[submodule "mainnet-guides"]
+	path = mainnet-guides
+	url = https://github.com/hubofvalley/Mainnet-Guides
